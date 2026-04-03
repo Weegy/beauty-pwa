@@ -1,0 +1,6 @@
+{
+  "name": "Beauty PWA",
+  "short_name": "Beauty",
+  "start_url": "/",
+  "display": "standalone"
+}
